@@ -1,4 +1,4 @@
-#Covid-19 visualisation project
+# Covid-19 visualisation project
 ## Data used: 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
 
 ### SYSTEM REQUIREMENTS
